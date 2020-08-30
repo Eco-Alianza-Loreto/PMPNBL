@@ -2,6 +2,9 @@
 
 * [Introduccion](README.md)
 * [Subzonas y Políticas de Manejo](subzonas.md)
+* [Subzonas de Preservación](subzonas-de-preservacion.md)
+* [Subzonas de Uso Tradicional](subzonas-de-uso-tradicional.md)
+* [Subzona de Aprovechamiento Sustentable de los Recursos Naturales Marina](subzona-de-aprovechamiento-sustentable-de-los-recursos-naturales-marina.md)
 * [Reglas administrativas](reglas-administrativas.md)
 * [1. Subprograma de Protección](untitled-1-1.md)
 * [2. Subprograma de Manejo](2.-subprograma-de-manejo.md)

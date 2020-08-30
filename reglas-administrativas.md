@@ -62,7 +62,7 @@ A fin de proteger la diversidad biológica de las especies marinas, se requiere 
 
 Finalmente, se hace necesario destacar que los lugares donde se podrán establecer los campamentos pesqueros temporales son aquellos sitios utilizados tradicionalmente por los pescadores de forma periódica, para pernoctar, limpiar y conservar los productos pesqueros, acondicionados para tal fin. Aunado a lo anterior, se considera necesario que cada campamento pesquero temporal designe un responsable ante la Dirección del Parque Nacional a fin de establecer una vía de comunicación efectiva con los pescadores y para coadyuvar a las tareas de mantener en buen estado de conservación y limpieza los diferentes campamentos.
 
-### Capítulo I. Disposiciones generales
+### Cap. I. Disposiciones generales
 
 **Regla 1.** Las presentes Reglas Administrativas son de observancia general y obligatoria para todas aquellas personas físicas o morales que realicen actividades dentro del Parque Nacional Bahía de Loreto, ubicado frente a las costas del Municipio de Loreto, en el Estado de Baja California Sur, de conformidad con la subzonificación establecida.
 

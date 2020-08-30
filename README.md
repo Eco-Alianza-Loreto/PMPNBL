@@ -1,6 +1,6 @@
 # Introduccion
 
-### ANTECEDENTES
+## ANTECEDENTES
 
 El Parque Nacional Bahía de Loreto presenta una gran variedad de ambientes costeros-marinos con fondos rocosos, arenosos, playas, cañadas, cañones submarinos y terrazas marinas. Su localización geográfica ha favorecido el establecimiento de una variedad de hábitats con una elevada diversidad biológica. Incluye un polígono general que delimita un área marina y cinco islas. El ambiente insular también se caracteriza por sus endemismos en especies de plantas, reptiles, insectos y mamíferos.
 
@@ -24,7 +24,7 @@ En virtud de lo anterior, contando con la opinión de su Consejo Asesor, de conf
 
 Asimismo, toda vez que el Programa de Manejo constituye el instrumento rector de planeación y regulación, basado en el conocimiento de la problemática del área, sus recursos naturales y el uso de los mismos, éste debe retroalimentarse y adaptase a las condiciones actuales del Parque Nacional, en un proceso de corto, mediano y largo plazo. La adaptación tiene que ser con base en la aplicación de las mejores políticas de manejo y conservación que garanticen su efectividad, paracumplir cabalmente con los objetivos del establecimiento del Área Natural Protegida.
 
-### OBJETIVOS DEL PROGRAMA DE MANEJO
+## OBJETIVOS DEL PROGRAMA DE MANEJO
 
 ### Objetivo General
 
@@ -32,17 +32,29 @@ Constituir el instrumento rector de planeación y regulación que establece las 
 
 ### Objetivos Específicos
 
-**Protección**: Favorecer la permanencia y conservación de la diversidad biológica del Parque Nacional, a través del establecimiento y promoción de un conjunto de políticas y medidas para mejorar el ambiente y controlar el deterioro de los ecosistemas.
+#### **Protección**: 
 
-**Manejo**: Establecer políticas, estrategias y programas, con el fin de determinar actividades y acciones orientadas al cumplimiento de los objetivos de conservación, protección, restauración, capacitación y educación del Parque Nacional, a través de proyectos sustentables.
+Favorecer la permanencia y conservación de la diversidad biológica del Parque Nacional, a través del establecimiento y promoción de un conjunto de políticas y medidas para mejorar el ambiente y controlar el deterioro de los ecosistemas.
 
-**Restauración**: Recuperar y restablecer las condiciones ecológicas previas a las modificaciones causadas por las actividades humanas o fenómenos naturales, permitiendo la continuidad de los procesos naturales en los ecosistemas del Parque Nacional.
+#### **Manejo**: 
 
-**Conocimiento**: Generar, rescatar y divulgar conocimientos, prácticas y tecnologías, tradicionales o nuevas que permitan la preservación, la toma de decisiones y el aprovechamiento sustentable de la biodiversidad del Parque Nacional Bahía de Loreto.
+Establecer políticas, estrategias y programas, con el fin de determinar actividades y acciones orientadas al cumplimiento de los objetivos de conservación, protección, restauración, capacitación y educación del Parque Nacional, a través de proyectos sustentables.
 
-**Cultura**: Difundir acciones de conservación del Parque Nacional Bahía de Loreto, propiciando la participación activa de las comunidades aledañas que generen la valoración de los servicios ambientales, mediante la identidad, difusión y educación para la conservación de la biodiversidad que contiene.
+#### **Restauración**: 
 
-**Gestión**: Establecer las formas en que se organizará la administración del Parque Nacional y los mecanismos de participación de los tres órdenes de gobierno, de los individuos y comunidades aledañas a la misma, así como de todas aquellas personas, instituciones, grupos y organizaciones sociales interesadas en su conservación y aprovechamiento sustentable.
+Recuperar y restablecer las condiciones ecológicas previas a las modificaciones causadas por las actividades humanas o fenómenos naturales, permitiendo la continuidad de los procesos naturales en los ecosistemas del Parque Nacional.
+
+#### **Conocimiento**: 
+
+Generar, rescatar y divulgar conocimientos, prácticas y tecnologías, tradicionales o nuevas que permitan la preservación, la toma de decisiones y el aprovechamiento sustentable de la biodiversidad del Parque Nacional Bahía de Loreto.
+
+#### **Cultura**: 
+
+Difundir acciones de conservación del Parque Nacional Bahía de Loreto, propiciando la participación activa de las comunidades aledañas que generen la valoración de los servicios ambientales, mediante la identidad, difusión y educación para la conservación de la biodiversidad que contiene.
+
+#### **Gestión**:
+
+Establecer las formas en que se organizará la administración del Parque Nacional y los mecanismos de participación de los tres órdenes de gobierno, de los individuos y comunidades aledañas a la misma, así como de todas aquellas personas, instituciones, grupos y organizaciones sociales interesadas en su conservación y aprovechamiento sustentable.
 
 
 
