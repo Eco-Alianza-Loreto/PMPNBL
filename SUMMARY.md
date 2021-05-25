@@ -3,7 +3,7 @@
 * [Introduccion](README.md)
 * [Antecedentes](antecedentes.md)
 * [Objetivos del Programa de Manejo](objetivos-del-programa-de-manejo.md)
-* [1. Subprograma de Protección](1.-subprograma-de-proteccion.md)
+* [S1. Subprograma de Protección](1.-subprograma-de-proteccion.md)
 * [2. Subprograma de Manejo](2.-subprograma-de-manejo.md)
 * [3. Subprograma de Restauración](3.-subprograma-de-restauracion.md)
 * [4.Subprograma de Conocimiento](4.subprograma-de-conocimiento.md)
