@@ -1,4 +1,4 @@
-# 5.Subprograma de Cultura
+# Subprograma de Cultura
 
 ## **Objetivo general**
 

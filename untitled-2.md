@@ -1,4 +1,4 @@
-# 6.Subprograma de Gestión
+# Subprograma de Gestión
 
 ## **Objetivo general**
 
