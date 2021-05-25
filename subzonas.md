@@ -44,6 +44,8 @@ VI. **Subzona de Uso Tradicional Marina III \(UTM-III\).** Está integrada por 1
 
 VII. **Subzona de Aprovechamiento Sustentable de los Recursos NaturaleMarina \(ASRNM\).** Está integrada por 2 polígonos con una superficie total de 159,382.79 hectáreas.
 
+
+
 ## Subzonas de Preservación
 
 Estas superficies se ubican en áreas del Parque Nacional que han sufrido nula o mínima alteración del hábitat y valores ecológicos como: alta biodiversidad, presencia de especies endémicas, aporte significativo a otros ecosistemas por su elevada productividad o porque son áreas de relevancia como reservorio genético y aporte de propágulos \(etapa larvaria, alevines, juveniles y áreas de anidación\). Tienen la finalidad de mantener las condiciones de los ecosistemas representativos del Parque Nacional en su estado natural, así como la continuidad de sus procesos ecológicos y el germoplasma que en ellos se contiene.
