@@ -1,10 +1,10 @@
 # 1. Subprograma de Protección
 
-## **Objetivo General**
+## **Objetivo General de Protección**
 
 Favorecer la permanencia y conservación de la diversidad biológica del Parque Nacional, a través del establecimiento y promoción de un conjunto de políticas y medidas para mejorar el ambiente y controlar el deterioro de los ecosistemas.
 
-## **Estrategias**
+## **Estrategias de Protección**
 
 * Coordinar y participar en acciones que permitan obtener información relativa al estado de conservación de los recursos naturales, que permitan el correcto desarrollo de los procesos que sostienen la diversidad de especies y servicios ecosistémicos.
 * Coordinar acciones en forma eficiente con las instituciones y dependencias federales competentes, así como con las y los usuarios en materia de inspección y vigilancia.
@@ -12,15 +12,14 @@ Favorecer la permanencia y conservación de la diversidad biológica del Parque 
 * Promover la participación de la sociedad y en particular de las comunidades de la zona de influencia, en labores de protección.
 * Instrumentar las acciones encaminadas a la conservación de la biodiversidad y a la protección y recuperación de sitios perturbados, así como zonas núcleo, áreas frágiles y sensibles y sitios arqueológicos.
 
-## Componentes
+## Componentes de Protección
 
-1.1 Componente de inspección y vigilancia
+Los componetes de proteccion son cuatro:
 
-1.2 Componente de contingencias ambientales
-
-1.3 Componente de protección contra especies exóticas invasoras y control de especies y poblaciones que se tornen perjudiciales.
-
-1.4 Componente de mitigación y adaptación al cambio climático
+* **Componente 1:** De inspección y vigilancia
+* **Componente 2:** De contingencias ambientales
+* **Componente 3:** De protección contra especies exóticas invasoras y control de especies y poblaciones que se tornen perjudiciales
+* **Componente 4:** De mitigación y adaptación al cambio climático
 
 ## 1.1 Componente de inspección y vigilancia
 
@@ -38,19 +37,41 @@ _Garantizar la implementación efectiva de vigilancia para prevenir actos u omis
 
 **Promover en coordinación con las autoridades competentes la actualización del programa de inspección y vigilancia.**
 
-* **Acción 1.1.A1.1C** Convocar a una reunión de trabajo a las autoridades correspondientes a fin de establecer las acciones tendientes para la actualización del programa de inspección y vigilancia.
-* **Acción 1.1.A1.2M** Promover el fortalecimiento de la infraestructura, equipo, personal y recursos financieros adicionales para realizar las actividades de vigilancia e inspección.
-* **Acción 1.1.A1.3P** Coadyuvar con las autoridades competentes en la ejecución de operativos en materia pesquera.
-* **Acción 1.1.A1.4P** Realizar, en coordinación con las autoridades competentes, recorridos de vigilancia marinos y terrestres.
+#### **Acción 1.1.A1.1C** 
+
+Convocar a una reunión de trabajo a las autoridades correspondientes a fin de establecer las acciones tendientes para la actualización del programa de inspección y vigilancia.
+
+#### **Acción 1.1.A1.2M** 
+
+Promover el fortalecimiento de la infraestructura, equipo, personal y recursos financieros adicionales para realizar las actividades de vigilancia e inspección.
+
+#### **Acción 1.1.A1.3P**
+
+ Coadyuvar con las autoridades competentes en la ejecución de operativos en materia pesquera.
+
+#### **Acción 1.1.A1.4P** 
+
+Realizar, en coordinación con las autoridades competentes, recorridos de vigilancia marinos y terrestres.
 
 ### **Actividad 1.1.A2 Procuración y Vigilancia Comunitaria**
 
-**Promover ante la sociedad civil en acciones de denuncia por alguna irregularidad ambiental.**
+**Promover ante la sociedad civil  acciones de denuncia por alguna irregularidad ambiental.**
 
-* **Acción 1.1.A2.1P** Promover la conformación de grupos de vigilancia comunitaria participativa.
-* **Acción 1.1.A2.2P** Promover la realización de reuniones comunitarias para fomentar la participación de actores locales para la conformación de comités de vigilancia comunitaria
-* **Acción 1.1.A2.3P** Promover ante la PROFEPA la capacitación del grupo de vigilancia comunitaria.
-* **Acción 1.1.A2.4C** Establecer un sistema de comunicación entre autoridades, usuarios y visitantes en general para la atención oportuna de denuncias por alguna irregularidad ambiental.
+#### **Acción 1.1.A2.1P** 
+
+Promover la conformación de grupos de vigilancia comunitaria participativa.
+
+#### **Acción 1.1.A2.2P**
+
+Promover la realización de reuniones comunitarias para fomentar la participación de actores locales para la conformación de comités de vigilancia comunitaria
+
+#### **Acción 1.1.A2.3P**
+
+Promover ante la PROFEPA la capacitación del grupo de vigilancia comunitaria.
+
+#### **Acción 1.1.A2.4C**
+
+Establecer un sistema de comunicación entre autoridades, usuarios y visitantes en general para la atención oportuna de denuncias por alguna irregularidad ambiental.
 
 ### **Actividad 1.1.A3 Promoción y Difusión del PMPNBL**
 
@@ -58,11 +79,17 @@ _Garantizar la implementación efectiva de vigilancia para prevenir actos u omis
 
 **ACCIONES**
 
-**1.1.A3.1P** Proporcionar a los usuarios información sobre la subzonificación y reglas administrativas
+#### **1.1.A3.1P**
 
-**1.1.A3.2P** Promover y difundir por medios impresos, electrónicos y mediante reuniones sectoriales y por grupos de usuarios, el marco legal y normativo aplicable al Parque Nacional Bahía de Loreto.
+Proporcionar a los usuarios información sobre la subzonificación y reglas administrativas
 
-**1.1.A3.3C** Actualizar la señalización del Parque Nacional Bahía de Loreto en las islas y en la zona de influencia.
+#### **1.1.A3.2P**
+
+Promover y difundir por medios impresos, electrónicos y mediante reuniones sectoriales y por grupos de usuarios, el marco legal y normativo aplicable al Parque Nacional Bahía de Loreto.
+
+#### **1.1.A3.3C**
+
+Actualizar la señalización del Parque Nacional Bahía de Loreto en las islas y en la zona de influencia.
 
 ## 1.2 Componente de contingencias ambientales
 
