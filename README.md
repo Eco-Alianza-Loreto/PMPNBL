@@ -1,4 +1,4 @@
-# Introduccion
+# Introducción
 
 Inspirándonos en la forma en que los desarrolladores de software organizan su trabajo, hemos construido este sitio para el **Programa de Manejo del Parque Nacional Bahia de Loreto**, en base a la version de su mas reciente actualización del 2019.  
 

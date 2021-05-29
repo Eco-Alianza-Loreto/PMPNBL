@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduccion](README.md)
+* [Introducción](README.md)
 * [Antecedentes](antecedentes.md)
 * [Objetivos del Programa de Manejo](objetivos-del-programa-de-manejo.md)
 * [Subprograma de Protección](subprograma-de-proteccion.md)
