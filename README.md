@@ -1,6 +1,6 @@
 # Introducción
 
-Inspirándonos en la forma en que los desarrolladores de software organizan su trabajo, hemos construido este sitio para el **Programa de Manejo del Parque Nacional Bahia de Loreto**, en base a la version de su mas reciente actualización del 2019.  
+Inspirándonos en la forma en que los desarrolladores de software organizan su trabajo, el equipo de [Eco-Alianza](https://ecoalianzaloreto.org) ha construido este sitio para el **Programa de Manejo del Parque Nacional Bahia de Loreto**, en base a la version de su mas [reciente actualización del 2019](https://app.gitbook.com/@eco-alianza-loreto/s/pmpnbl/~/drafts/-MatqzSf-mfLK8J3qPms/~/settings/customization).  
 
 El propósito es compartir y publicar el Programa de Manejo con una mejor experiencia de lectura y de referencia; al mismo tiempo que se mantiene una fuente digital que permita, a través de una herramienta de edición potente y sencilla, la colaboración, el control de versiones y la re-publicacion de las futuras actualizaciones del Programa de Manejo, asi como traducciones a otros idiomas.
 
