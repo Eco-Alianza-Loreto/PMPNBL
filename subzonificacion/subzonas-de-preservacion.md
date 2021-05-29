@@ -10,7 +10,7 @@ Esta subzona abarca una superficie total de 3,957.60 hectáreas, y abarca 10 pol
 
 Comprende una superficie de 2.95 hectáreas, ubicado en el extremo Noroeste del Parque Nacional, y es una zona con vegetación escasa, principalmente de matorral bajo y cardones, es de gran relevancia este sitio por ser área de anidación de la gaviota pata amarilla \(_Larus livens_\) la cual aparece en la Norma Oficial Mexicana NOM-059-SEMARNAT-2010, Protección ambiental-Especies nativas de México de flora y fauna silvestres-Categorías de riesgo y especificaciones para su inclusión, exclusión o cambio-Lista de especies en riesgo, bajo estatus de protección especial. En ella realizan nidos sobre la arena o piedras, es una zona de alta vulnerabilidad y fácil de perturbar. La superficie marina que la rodea está conformada por fondos rocosos, por lo que no se considera apropiado para el turismo, ya que presenta una pendiente suave, además de estar entre dos canales que generan fuertes corrientes.
 
-![](.gitbook/assets/image.png)
+![](../.gitbook/assets/image.png)
 
 ### **La Mestiza - Polígono 2** 
 

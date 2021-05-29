@@ -1,6 +1,4 @@
-# Reglas administrativas
-
-### Introducción
+# Introducción a las Reglas
 
 El Programa de Manejo del Parque Nacional Bahía de Loreto y sus Reglas Administrativas tienen su fundamento en las siguientes disposiciones de la Constitución Política de los Estados Unidos Mexicanos:
 
